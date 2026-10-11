@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>LSUIElement</key>
+	<true/>
+	<key>NSAppleEventsUsageDescription</key>
+	<string>Vesper controls apps like Music when you ask her to — play, pause, skip.</string>
+	<key>NSCalendarsFullAccessUsageDescription</key>
+	<string>Vesper reads your calendar when you ask about your day, and adds events you ask her to.</string>
+	<key>NSRemindersFullAccessUsageDescription</key>
+	<string>Vesper adds reminders you ask for and reads today's reminders when you ask about your day.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Vesper listens while you hold the push-to-talk shortcut, so you can talk to her.</string>
+	<key>NSScreenCaptureUsageDescription</key>
+	<string>Vesper looks at your screen when you talk to her, so she can see what you're asking about.</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>Vesper transcribes what you say on-device, so she can understand your question.</string>
+</dict>
+</plist>
