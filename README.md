@@ -2,6 +2,10 @@
 
 A personal screen companion that lives in the macOS menu bar. Hold **Control + Option**, ask a question out loud, and Vesper looks at your screen, answers in her own voice, and flies a small blue cursor to whatever she's talking about, one step at a time.
 
+![Vesper's blue cursor flying across a web page to the button she's talking about](docs/vesper-demo.gif)
+
+*Typed question: "Where can I see what he has built?" Her cursor flies to the button she means, then back. (She answers out loud; a GIF has no sound.)*
+
 - **Claude** runs through your own `claude` CLI (Claude Code), on your Claude subscription. The app has no Anthropic API key.
 - **Speech recognition** is Apple's on-device SpeechAnalyzer. Nothing is uploaded.
 - **Her voice** is Google's Chirp 3 HD, Kokoro running on your Mac, or both (see [Voices](#voices)).
